@@ -1,4 +1,6 @@
-原文链接: https://www.remnote.io/p/help/document/YDwY8T3zErzpGSvGZ 翻译人：jackie.xiao@outlook.com  校对人：
+原文链接: https://www.remnote.io/p/help/document/YDwY8T3zErzpGSvGZ
+翻译人：jackie.xiao@outlook.com  
+校对人：
 
 翻译说明:
 
