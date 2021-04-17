@@ -1,6 +1,6 @@
 原文链接: https://www.remnote.io/p/help/document/pc8dybqjzsJSwpjw4
 翻译人： timking.nf@gmail.com
-校对
+校对人：
 
 <hr/>
 - 有些时候你一次只想聚焦于单独一个概念。在 RemNote 中你可以通过点击 Rem 大纲圆点的方式，聚焦于任意一个 Rem 而避免其他 Rem 的干扰
