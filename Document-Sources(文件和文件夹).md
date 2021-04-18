@@ -1,4 +1,7 @@
 - Document Sources
+原文链接: https://www.remnote.io/p/help/document/nwGbdtGFScWqZfHjt
+翻译人：lscsocket@gmail.com  
+校对人：
     - Document Sources
     - 文件资源
     - 

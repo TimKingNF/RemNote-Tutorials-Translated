@@ -1,3 +1,7 @@
+原文链接: https://www.remnote.io/p/help/document/YB55vxDNRMPoJ85ME
+翻译人：lscsocket@gmail.com  
+校对人：
+
 - Hierarchical Search
     - Hierarchical Search
     - 分层搜索

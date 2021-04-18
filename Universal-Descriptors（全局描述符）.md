@@ -1,3 +1,6 @@
+原文链接: https://www.remnote.io/p/help/document/pzExf4oe7WwGrMYYn
+翻译人：lscsocket@gmail.com  
+校对人：
 - Universal Descriptors
     - Adding Descriptors to enrich your understand of a Concept is a key part of the Concept / Descriptor Framework. Some descriptors appear extremely frequently - almost universally. We call them Universal Descriptors , and notate them as beginning with a ~ symbol.
     - 添加Descriptors描述符，以增加您对Concept的理解，是一个非常关键的部分。一些Descriptors描述是符似乎出而非常频繁——几乎是普遍的。我们称之为Universal Descriptors，然后把他们标记为开头带“~”符号的Rem。

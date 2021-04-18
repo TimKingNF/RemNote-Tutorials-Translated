@@ -1,3 +1,7 @@
+原文链接: https://www.remnote.io/p/help/document/SF992QfW4qo8yFrxd
+翻译人：lscsocket@gmail.com  
+校对人：
+
 - Formatting
     - RemNote provides formatting options to structure to your notes.
     - RemNote提供各种格式选项来构建你的笔记

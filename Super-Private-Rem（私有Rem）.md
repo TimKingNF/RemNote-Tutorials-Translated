@@ -1,3 +1,6 @@
+原文链接: https://www.remnote.io/p/help/document/aGaSAKfeT8x3EzRYL
+翻译人：lscsocket@gmail.com  
+校对人：
 - Super-Private Rem
     - Super-Private Rem
     - 私有Rem

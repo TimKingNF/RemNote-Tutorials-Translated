@@ -1,3 +1,6 @@
+原文链接: https://www.remnote.io/p/help/document/5Yc6LABs4yJEN6RG5
+翻译人：lscsocket@gmail.com  
+校对人：
 - Your Edit Later Document
     - 
     - Your Edit Later Document
