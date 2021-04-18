@@ -1,0 +1,50 @@
+- Universal Descriptors
+    - Adding Descriptors to enrich your understand of a Concept is a key part of the Concept / Descriptor Framework. Some descriptors appear extremely frequently - almost universally. We call them Universal Descriptors , and notate them as beginning with a ~ symbol.
+    - 添加Descriptors描述符，以增加您对Concept的理解，是一个非常关键的部分。一些Descriptors描述是符似乎出而非常频繁——几乎是普遍的。我们称之为Universal Descriptors，然后把他们标记为开头带“~”符号的Rem。
+    - 
+    - Here are are three examples - ~Problem Being Solved, ~How Works, and ~Solution .
+    - 这里有三个例子 —— ~问题得到解决，如何工作，解决方案
+    - 
+    - 
+    - When learning about a system, it's useful to understand how it works
+    - 在学习一个系统的时候，了解它的工作原理是很有用的:
+    - 
+    - 
+    - 
+    - When learning about a tool, it's useful to understand the “~Problems Being Solved”  by that tool:
+    - 在了解工具时，理解该工具的“正在解决的问题”是很有帮助的：
+    - 
+    - 
+    - 
+    - When learning about a problem, it's useful to understand the solution to the problem
+    - 在了解问题时，了解问题的解决方案是有用的
+    - 
+    - 
+    - 
+    - Universal Descriptors are useful for a few reasons:
+    - Universal Descriptors之所以有效，有以下几个原因：
+        - You don't really understand something until you understand it in multiple ways. Encouraging yourself to add multiple  Universal Descriptors helps you challenge your own understanding about an idea. You could also add normal descriptors, but having a pre-packaged set of descriptors makes this process much easier. (You can also further customize your pre-packaged sets of descriptors - see the  Templates for Knowledge (Types and Slots) tutorial).
+        - 如果您不能通过多种方式来理解某件事，您将不会真正理解它。鼓励自己添加多个Universal Descriptors有注意您挑战自己对想法的理解。你还而快车添加正常的描述符，但拥有一组预先定义好的Universal Descriptors将会使这个过程更加简单。（您还可以进一步自定义预定义的Universal Descriptors——参阅 Templates for Knowledge (Types and Slots)教程）
+        - 
+        - Being consistent with the phrasing of a descriptor  helps you avoid the common challenge with flashcards of accidentally using different wording and then memorizing how the card looks rather than the actual concept. For example, here we always use ~Problem Being Solved  rather than also using "what problem does this solve" or "how does this help"?
+        - 与descriptor的描述一致，有助于您避免使用闪存卡的常见问题：记住了卡片的外观，而不是记住了实际的概念。例如，在这里，我们总是使用 ~问题得到解决 而不是  ~还能解决什么问题 或者 ~这有什么用呢？
+        - 
+        - This consistency can help build mental "scripts" that draw on these descriptors. For example, when trying to understand a new tool, you can ask yourself to understand its ~Problem Being Solved, ~Why Works , and ~How Works . Or when considering a position, you can ask yourself to understand the ~Argument For ,~Argument Against  , and an ~Analogy。
+        - 这种一致性可以帮助建立基于这些描述的心理“脚本”。比如，当试图理解一个新的工具时，您可以要求自己理解它的  ~问题得到解决，~为什么工作，和 ~如何工作。或者，在考虑一个职位时，您可以要求自己理解“支持的观点” 、“反对的观点”和 “类比”。
+        - 
+        - When possible, it's thus best to use a Universal Descriptor instead of a normal Descriptor.
+        - 因此，在可能的情况下，最好使用Universal Descriptor而不是常规的Descriptor。
+        - 
+    - 
+    - Here's a more complete list of Universal Descriptors s that our users have found useful. You can import these Rem to your Knowledge Base by pressing the  Add These Rem To Your Knowledge Base button below.
+    - 下图是一个更完整的Universal Descriptors楼层，我们的用户已经发现其其有用，你可以通过按下下面的知识库按钮来将这些Rem导入到您的知识库中。
+    - 
+    - These Universal Descriptors are simply Rem - they don't have any special status within the tool. This allows you to customize them or create your own as you desire. After importing these Rem, feel free to remix them, change them, or add new ones! You should fine-tune your knowledge base to optimize your own thinking.
+    - 这些Universal Descriptors知识Rem——它们在工具中没有任何特殊形态，这允许您自定义它们，或者根据您的需要创建自己的。导入这些Rem后，请随时重新整理、更改、或者添加新的Rem。您应该微调您的知识基础，以优化自己的思维。
+    - 
+    - To use a Universal Descriptors, simply make a  Rem Reference to it.
+    - 使用Universal Descriptors描述符，只需要创建一个Rem来引用它即可。
+    - 
+    - These Rem are color coded so that they stand out when you use them as a Rem Reference. Feel free to change around the colors for your own use!
+    - 这些Rem有颜色格式的，因此当您使用它们作为Rem参考时，它们会变得非常醒目，随意改变周围的颜色以供自己使用。
+    - 
