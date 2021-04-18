@@ -1,7 +1,7 @@
 原文链接: https://www.remnote.io/p/help/document/b7Mts7oahMsd53JdP
 翻译人： timking.nf@gmail.com
 校对人： 
-
+ 
 <hr/>
 - 你是否曾经回想起你几年前上过的课程内容，并意识到你已经忘记了大多数（ 但不是全部 ）的内容？
 - RemNote 可以帮助你学习并记忆任何你想记忆的事情。首先，RemNote 帮助你将复杂的概念（ 原文: ideas 想法 ）分解为简单的、易于理解的片段。然后，RemNote 将这些简单的片段制成抽认卡（ 原文：flashcard [百科](https://baike.baidu.com/item/%E9%97%AA%E5%8D%A1/2459449) ）。最后，RemNote 会使用最佳的时间( 基于记忆和认知科学的研究论文 )自动规划你的抽认卡练习任务。
