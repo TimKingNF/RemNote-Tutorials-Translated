@@ -1,4 +1,22 @@
-# RemNote 文档翻译说明
+# RemNote 官方中文文档翻译
+
+RemNote 官方中文教程已经整合到 RN 上啦！🎉🎉
+
+感兴趣的小伙伴可以点击右方链接👉 [Long-Form Tutorials CN](https://www.remnote.io/a/-long-form-tutorials/60914e99cc8b97004587b157)前往查看，也可以拷贝到自己的RN仓库当中。
+
+感谢以下小伙伴的贡献:
+
+Feiao
+白河
+Focus
+CollaalloC
+Yao
+jackiexiao
+Don't Judge
+dvlcis
+
+
+## 翻译说明
 
 翻译范围：[Long-Form Tutorials](https://www.remnote.io/p/help/document/64n7P2u9mht3mqYnC?locationAnchor=b7Mts7oahMsd53JdP)
 
