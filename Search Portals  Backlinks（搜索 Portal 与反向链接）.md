@@ -1,5 +1,5 @@
 原文链接: https://www.remnote.io/p/help/document/hwDiAyYvmhSHto2fg
-翻译人：
+翻译人：1035065128@qq.com
 校对人：
 
 - RemNote 会自动汇总 [[Rem 引用]][[反向链接]]、[[标签]][[反向链接]]、[[文本引用]]和文档链接。这些链接通过 [[默认的 Search Portal]] 列出，可以将它们作为灵活的 [[搜索Portal]] 打开。
