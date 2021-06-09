@@ -27,7 +27,7 @@
 - 你是否充分利用了 RemNote 的快捷键？检查一下吧！
 	你是否已经灵活运用这些快捷键了呢？来核对一下吧！
 	1. 使用 CTRL + H 隐藏一个 Rem
-	   CTRL + +ALT + H：隐藏一个 Rem
+	   CTRL + ALT + H：隐藏一个 Rem
 	2. 使用 CTRL + SHIFT  + H 去隐藏与当前 Rem 相关的 Rem，包括兄弟节点和所有的祖先节点 （ 或者输入 `/hide parents` ）
 	   CTRL + SHIFT  + H（或者输入/hide parents）： 隐藏当前 Rem 的兄弟节点和所有祖先节点
 	3. 使用 CTRL + DOWN 展开 Rem 的所有子节点（ 仅直接子节点 ）
