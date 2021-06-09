@@ -14,7 +14,7 @@
     3. 在底部右边 [["Add a Portal to an Existing Rem" Box]] 搜索框中搜索隐藏的 Rem 并点击，可以让隐藏的 Rem 重新展示出来。
 - 想要隐藏或者显示一些 Rem？这里列出了所有的快捷键
 - 你是否已经灵活运用这些快捷键了呢？来核对一下吧！
-	1. CTRL + +ALT + H：隐藏一个 Rem
+	1. CTRL + ALT + H：隐藏一个 Rem
 	2. CTRL + SHIFT  + H（或者输入/hide parents）： 隐藏当前 Rem 的兄弟节点和所有祖先节点
 	3. CTRL + DOWN：展开 Rem 的所有直接子节点（不包括子节点的下级节点 ）
 	4. CTRL + SHIFT + DOWN： 展开 Rem 的所有后代节点（一直展开到最底层节点 ）
